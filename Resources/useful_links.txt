@@ -2,5 +2,7 @@ https://github.com/lpaube/NetPractice?tab=readme-ov-file
 
 https://42-cursus.gitbook.io/guide/rank-04/netpractice
 
+https://www.youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF
+
 subnetting guide
 subnetting calculator
